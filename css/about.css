@@ -1,0 +1,28 @@
+.content{
+	position: relative;
+	margin-bottom: 120px;
+	font-family: 'Pavanam', sans-serif;
+
+}
+.content h1{
+	font-size: 100px;
+	text-align:center;
+	margin-bottom:30px;
+	font-style: normal;
+}
+
+/* body */
+.content p{
+	font-size: 15px;
+	margin-right: 0px;
+}
+
+/* image */
+img{
+	max-width: 100%;
+	max-height: 100%;
+}
+figcaption{
+	font-size: 10px;
+	margin-top: 10px;
+}

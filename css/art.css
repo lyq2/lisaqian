@@ -1,0 +1,39 @@
+/* text settings */
+body{
+	font-family: 'Pavanam', sans-serif;
+	margin-right: 0px;
+}
+header h1{
+	top: -50px;
+	margin-bottom:-100px;
+	text-align:center;
+	position: relative;
+	font-size:100px;
+}
+
+/* images */
+img{
+	max-width: 100%;
+}
+figcaption{
+	font-size: 10px;
+	margin-top: 10px;
+}
+
+/* artwork sections */
+.artwork{
+	margin: 30px 0;
+	padding: 30px;
+	font-size: 15px;
+	font-family: 'Pavanam', sans-serif;
+
+}
+.artwork .button {
+	margin-top: 10px;
+}
+.right-align{
+	text-align: right;
+}
+/* .odd{
+	background-color:white;
+} */
