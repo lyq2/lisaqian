@@ -7,21 +7,40 @@
 .content h1{
 	font-size: 100px;
 	text-align:center;
-	margin-bottom:30px;
+	margin-bottom:20px;
+	margin-top:40px;
 	font-style: normal;
+	color:#ec9640;
+	text-shadow:
+	-1px -1px 0 #000,
+	1px -1px 0 #000,
+	-1px 1px 0 #000,
+	1px 1px 0 #000;
 }
 
 /* body */
 .content p{
-	font-size: 15px;
+	font-size: 18px;
 	margin-right: 0px;
+	line-height:140%;
+}
+
+.intro a{
+	text-decoration:none;
+	color:black;
+}
+
+.intro a:hover{
+	text-decoration: none;
+	color:#ec9640;
 }
 
 /* image */
-img{
-	max-width: 100%;
-	max-height: 100%;
+img.about-img{
+	max-width: 80%;
+	max-height: 80%;
 	margin-top: 30px;
+	box-shadow: 8px 8px #ec9640;
 }
 figcaption{
 	font-size: 10px;
