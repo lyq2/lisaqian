@@ -10,13 +10,6 @@ header h1{
 	position: relative;
 	font-size:100px;
 	padding-bottom:0px;
-
-	color:#ec9640;
-	text-shadow:
-	-1px -1px 0 #000,
-	1px -1px 0 #000,
-	-1px 1px 0 #000,
-	1px 1px 0 #000;
 }
 header p, header p a{
 	font-size:15px;
