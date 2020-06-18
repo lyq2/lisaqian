@@ -53,4 +53,10 @@ footer{
 	font-size: 15px;
 	text-align: center;
 	margin: 80px;
+
+}
+
+footer a{
+	text-decoration:none;
+	color:#ec9640;
 }
