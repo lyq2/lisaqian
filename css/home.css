@@ -15,26 +15,18 @@ header.home-img{
 	padding-bottom:30px;
 }
 
-header h1.home-img{
-	/* font-size:160px; */
+header.home-img h1{
 	font-size:100px;
 	text-align:center;
 	position: absolute;
   top: 44%;
   left: 50%;
   transform: translate(-50%, -50%);
-	/* color: #ec9640; */
 	color:#102229;
-	font-family: 'Heebo', sans-serif;
-	text-shadow:
-		-1px -1px 0 white,
-		1px -1px 0 white,
-		-1px 1px 0 white,
-		1px 1px 0 white;
-
+	font-family: 'Pavanam', sans-serif;
 }
 
-header h2.sub{
+/* header h2.sub{
 	text-align:center;
 	position: absolute;
 	transform: translate(-50%, -50%);
@@ -43,7 +35,6 @@ header h2.sub{
 	left: 50%;
 	font-size:24px;
 	font-family: 'Heebo', sans-serif;
-
 }
 
 header h2.super{
@@ -55,5 +46,4 @@ header h2.super{
 	left: 54%;
 	font-size:27px;
 	font-family: 'Pavanam', sans-serif;
-
-}
+} */
